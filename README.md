@@ -2,7 +2,9 @@
 Requirements:
 
 1.You need to install anaconda navigator and open jupyter notebook to view this file.
+
 2.This project includes various libraries and framework.
+
 3.If you want to make any changes and run any code in the notebook you need to install particular Libraries from your Comand Prompt.
 
 The Data:
